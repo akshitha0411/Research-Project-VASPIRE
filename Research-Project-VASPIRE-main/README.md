@@ -1,4 +1,4 @@
-## This repo is for research project.
+## This repo is for research project. Adding some matlab codes for future reference.
 
 ## add ssh key to local as well as github to clone the repository. clone in ssh format only.
 
